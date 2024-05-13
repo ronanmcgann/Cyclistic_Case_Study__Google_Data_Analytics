@@ -1,3 +1,5 @@
+# **Google Data Analytics Professional Certificate**
+
 # Introduction
 ## Scenario
 In this case study, I have assumed the role of a junior data analyst working on the marketing analyst team for a fictional company, Cyclistic.
